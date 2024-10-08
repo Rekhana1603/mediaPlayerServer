@@ -1,0 +1,74 @@
+{
+  "allVideos": [
+    {
+      "id": "a6b9",
+      "caption": "Leo Trailer",
+      "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6fvREc1FCQREyh5ORvs2-KdduGlNSf8hKfw&s",
+      "link": "https://www.youtube.com/embed/Po3jStA673E"
+    },
+    {
+      "id": "7233",
+      "caption": "Vettaiyan Trailer",
+      "url": "https://m.media-amazon.com/images/M/MV5BZDYwZDkzYWQtMWY3Mi00YTczLTkxNTktODNjMzRhYTRlNzRlXkEyXkFqcGc@._V1_QL75_UX164_.jpg",
+      "link": "https://www.youtube.com/embed/xfZ0j63IDx0"
+    },
+    {
+      "id": "c3c6",
+      "caption": "Vettaiyan Song",
+      "url": "https://www.cinejosh.com/newsimg/newsmainimg/manasilayo-from-rajinikanth-vettaiyan-the-hunter-released_b_0909240825.jpg",
+      "link": "https://www.youtube.com/embed/AiD6SOOBKZI"
+    }
+  ],
+  "categories": [
+    {
+      "id": "41d3",
+      "categoryName": "Trailers",
+      "allVideos": [
+        {
+          "id": "c879",
+          "caption": "ARM Trailer",
+          "url": "https://static.toiimg.com/photo/100413084.cms",
+          "link": "https://www.youtube.com/embed/rFgS10V8908"
+        }
+      ]
+    },
+    {
+      "id": "3f75",
+      "categoryName": "Music",
+      "allVideos": [
+        {
+          "id": "d4ff",
+          "caption": "Haan Ke Haan Song",
+          "url": "https://www.statushut.org/wp-content/uploads/2024/09/Haan-Ke-Haan-Song-Status-Video-Download.jpg",
+          "link": "https://www.youtube.com/embed/NDjeeJwI08Q"
+        }
+      ]
+    }
+  ],
+  "history": [
+    {
+      "id": "b564",
+      "caption": "Aavesham Trailer",
+      "link": "https://www.youtube.com/embed/JpnOtNkmRBU",
+      "timeStamp": "10/4/2024, 2:08:37 PM GMT+5:30"
+    },
+    {
+      "id": "a536",
+      "caption": "ARM Trailer",
+      "link": "https://www.youtube.com/embed/rFgS10V8908",
+      "timeStamp": "10/7/2024, 2:11:42 PM GMT+5:30"
+    },
+    {
+      "id": "ff0c",
+      "caption": "Vettaiyan Trailer",
+      "link": "https://www.youtube.com/embed/xfZ0j63IDx0",
+      "timeStamp": "10/7/2024, 2:34:04 PM GMT+5:30"
+    },
+    {
+      "caption": "Haan Ke Haan Song",
+      "link": "https://www.youtube.com/embed/NDjeeJwI08Q",
+      "timeStamp": "10/8/2024, 3:14:12 PM GMT+5:30",
+      "id": "sYESrSD"
+    }
+  ]
+}
